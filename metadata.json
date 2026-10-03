@@ -1,0 +1,6 @@
+{
+  "name": "MeetUp Pakistan",
+  "description": "Meet. Connect. Experience. An 18+ non-sexual social companionship and activity marketplace in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
